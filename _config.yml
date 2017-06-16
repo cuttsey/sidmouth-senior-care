@@ -38,9 +38,6 @@ map:
 # Social settings
 facebook: http://facebook.com
 twitter: http://twitter.com
-instagram: http://instagram.com
-youtube: http://youtube.com
-skype: skype:obaez_design?userinfo
 feed: yes
 
 # Footer
@@ -60,5 +57,5 @@ exclude: [
 ]
 
 # Theme Settings
-analytics: 
+analytics: UA-83022405-1
 google_verification:
