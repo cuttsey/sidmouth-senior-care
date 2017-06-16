@@ -12,7 +12,7 @@ hero:
     hero_description: Care for seniors in Sidmouth, Devon, UK
 
 # Contact form
-api_token: # Enter API token here
+api_token: b75bef6e344301063f829278885dde34
 
 # Contact info
 contact:
