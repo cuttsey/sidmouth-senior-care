@@ -1,23 +1,31 @@
 - icon: icon-user-md
-  title: Invisible braces
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
-
-- icon: icon-diamond
-  title: Cosmetic Dentistry
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
-
-- icon: icon-flask
-  title: Stain removal
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-
-- icon: icon-globe
-  title: Dentures
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
-
-- icon: icon-ambulance
-  title: Emergency Calls
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  title: Meal Times
+  description: Meal preparation, assistance with meal times and tidying away.
 
 - icon: icon-bed
-  title: Sedation
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  title: Housekeeping
+  description: Light housekeeping including hoovering, dusting, washing floors, laundry, ironing.
+
+- icon: icon-flask
+  title: Companionship
+  description: Companionship and conversation, assistance with hobbies, assistance reading, arranging appointments.
+
+- icon: icon-globe
+  title: Home Help
+  description: Taking out the bins and recycling, watering plants, changing light bulbs, writing/posting letters.
+
+- icon: icon-ambulance
+  title: Pet Care
+  description: Dog walking and feeding pets
+
+- icon: icon-bed
+  title: Shopping
+  description: Assistance with food shopping, making shopping lists, putting shopping away.
+  
+- icon: icon-flask
+  title: Prescriptions
+  description: Collecting prescriptions for our customers
+    
+- icon: icon-bath
+  title: Personal Care
+  description: Assistance with bathing, dressing, grooming, medication prompting.
