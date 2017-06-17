@@ -3,7 +3,7 @@ title: Sidmouth Senior Care
 description: "Care for seniors in Sidmouth, Devon, UK."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the name of your domain
-logo_url: svg/min/logo.svg
+logo_url: svg/min/logo.png
 
 # Hero
 hero: 
