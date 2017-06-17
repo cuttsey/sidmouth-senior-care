@@ -12,7 +12,7 @@ hero:
     hero_description: Care for seniors in Sidmouth, Devon, UK
 
 # Contact form
-api_token: b75bef6e344301063f829278885dde34
+api_token: ba0e288529af521746f340cc85b1457f
 
 # Contact info
 contact:
@@ -22,8 +22,6 @@ contact:
 
 # Opening hours
 monday_friday: 8:00 – 18:00
-saturday: 8:00 – 17:00
-sunday: 8:00 – 17:00
 
 # Testimonials
 testimonials:
@@ -33,7 +31,7 @@ testimonials:
 map:
     zoom: 17
     address: 1 Fortfield Terrace, Sidmouth, Devon, United Kingdom
-    address_details: svg/min/logo.svg
+    address_details: svg/min/logo.png
 
 # Social settings
 facebook: http://facebook.com
@@ -58,4 +56,4 @@ exclude: [
 
 # Theme Settings
 analytics: UA-83022405-1
-google_verification:
+
