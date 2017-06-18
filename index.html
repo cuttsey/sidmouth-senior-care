@@ -167,5 +167,17 @@ layout: default
 <!-- End Testimonials -->
 
 <!-- Start Map -->
-<div id="location" class="map" data-zoom="{{ site.map.zoom }}" data-address="{{ site.map.address }}" data-address-details="<img src='{{ site.map.address_details }}'>"></div>
+<div id="map"></div>
+<script>
+  function initMap() {
+    var uluru = {lat: 50.678838, lng: -3.242088};
+    var map = new google.maps.Map(document.getElementById('map'), {
+      zoom: 14,
+      center: uluru
+    });
+  }
+</script>
+<script async defer
+src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAUdZA2BJtt6cWl85plfuZf_yH4_fQ1Rdo&callback=initMap">
+</script>
 <!-- End Map -->
