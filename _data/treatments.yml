@@ -1,31 +1,31 @@
-- icon: icon-user-md
+- icon: icon-user-md1
   title: Meal Times
   description: Meal preparation, assistance with meal times and tidying away.
 
-- icon: icon-wrench
+- icon: icon-wrench1
   title: Housekeeping
   description: Light housekeeping including hoovering, dusting, washing floors, laundry, ironing.
 
-- icon: icon-flask
+- icon: icon-flask1
   title: Companionship
   description: Companionship and conversation, assistance with hobbies, assistance reading, arranging appointments.
 
-- icon: icon-globe
+- icon: icon-globe1
   title: Home Help
   description: Taking out the bins and recycling, watering plants, changing light bulbs, writing/posting letters.
 
-- icon: icon-pawprint
+- icon: icon-pawprint1
   title: Pet Care
   description: Dog walking and feeding pets
 
-- icon: icon-shopping-cart
+- icon: icon-shopping-cart1
   title: Shopping
   description: Assistance with food shopping, making shopping lists, putting shopping away.
   
-- icon: icon-flask
+- icon: icon-flask1
   title: Prescriptions
   description: Collecting prescriptions for our customers
     
-- icon: icon-fa-bath
+- icon: icon-fa-bath1
   title: Personal Care
   description: Assistance with bathing, dressing, grooming, medication prompting.
