@@ -18,7 +18,7 @@
   title: Pet Care
   description: Dog walking and feeding pets
 
-- icon: icon-shopping-cart
+- icon: <span class="glyphicons glyphicons-shopping-cart"></span>
   title: Shopping
   description: Assistance with food shopping, making shopping lists, putting shopping away.
   
