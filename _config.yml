@@ -27,15 +27,8 @@ monday_friday: 8:00 – 18:00
 testimonials:
     testimonials_img: parallax.jpg
 
-# Map
-map:
-    zoom: 17
-    address: 1 Fortfield Terrace, Sidmouth, Devon, United Kingdom
-    address_details: svg/min/logo.png
-
 # Social settings
-facebook: http://facebook.com
-twitter: http://twitter.com
+twitter: http://twitter.com/sidmouthcare
 feed: yes
 
 # Footer
